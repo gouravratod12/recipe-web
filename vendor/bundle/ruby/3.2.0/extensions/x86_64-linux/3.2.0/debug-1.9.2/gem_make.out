@@ -1,0 +1,19 @@
+current directory: /home/developer/rails_react_recipe/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+/home/developer/.rbenv/versions/3.2.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/developer/rails_react_recipe/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240514-18647-tj4ewh sitelibdir\=./.gem.20240514-18647-tj4ewh clean
+
+current directory: /home/developer/rails_react_recipe/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240514-18647-tj4ewh sitelibdir\=./.gem.20240514-18647-tj4ewh
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/developer/rails_react_recipe/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240514-18647-tj4ewh sitelibdir\=./.gem.20240514-18647-tj4ewh install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240514-18647-tj4ewh/debug
+
+current directory: /home/developer/rails_react_recipe/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240514-18647-tj4ewh sitelibdir\=./.gem.20240514-18647-tj4ewh clean
